@@ -1,4 +1,4 @@
-package com.example.practicaexamenfinal.Activity
+package com.example.practicaexamenfinal
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
